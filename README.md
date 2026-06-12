@@ -87,4 +87,4 @@ This project was completed as part of my Machine Learning Internship at SkillCra
 
 ## Gesture Predictions
 
-![Gesture Predictions](Gesture_Predictions.png)
+![Gesture Predictions](output.png)
